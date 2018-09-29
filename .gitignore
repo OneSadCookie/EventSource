@@ -34,3 +34,4 @@ sse-server/node_modules/
 
 Carthage/Build
 .DS_store
+.build
